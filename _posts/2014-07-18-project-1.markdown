@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2021-07-01
 title: 'Marvel:PLay as Naruto at the beginning'
-novelurl: https://yourfantasytranslations.github.io/MPNAB/
+novelurl: https://www.webnovel.com/book/marvel-playing-as-naruto-characters-at-the-start_19791215006401505
 img: MPNB.png
 alt: image-alt
 description: "Crossing over to Marvel world, Wu Chen gets the strongest acting system. The more he plays like the original character, the stronger his power. The Fourth Hokage, Six Paths of Pain, Uchiha Madara, Sage of the Six Paths….
