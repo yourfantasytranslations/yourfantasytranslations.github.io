@@ -1,5 +1,5 @@
 ---
-layout: default
+ layout: default
 modal-id: 8
 date: 2021-07-15
 title: 'Surviving a different world with the All-purpose skill Creating seasonings!!'
