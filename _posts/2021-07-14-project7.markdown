@@ -1,8 +1,8 @@
 ---
- layout: default
-modal-id: 8
-date: 2021-07-15
-title: 'Surviving a different world with the All-purpose skill Creating seasonings!!'
+layout: default
+modal-id: 7
+date: 2021-07-14
+title: 'Surviving a different world with the All-purpose skill “Creating seasonings”!!'
 novelurl: https://yourfantasytranslations.github.io/SDWAP/
 img: SD.png
 alt: image-alt
@@ -12,5 +12,6 @@ He makes full use of the unique skills that he had gained from his hobbies of co
 He uses soy sauce to kill goblins and eggs to kill wolves. He creates dishes and sweets that don't exist in the other world, and grabs the stomachs of his friends.
 "This is fried chicken!”
 "What the heck, can there be such a thing like this… that tastes good just by looking at it?
-This is just a perverted story about a kid who just wants to be popular amongst girls by making use of his skills of food and seasoning."
+This is just a perverted story about a kid who just wants to be popular amongst girls by making use of his skills of food and seasoning.
+"
 ---
