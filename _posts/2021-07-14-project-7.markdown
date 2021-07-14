@@ -4,7 +4,7 @@ modal-id: 7
 date: 2021-07-14
 title: 'Surviving a different world with the All-purpose skill “Creating seasonings”!!'
 novelurl: https://yourfantasytranslations.github.io/SDWAP/
-img: SD.jpg
+img: SD.png
 alt: image-alt
 description: "Tatsuya, who had been living without a girlfriend for 32 years, became the "Sorrowful wizard" and got transferred to another world.
 While regretting over his overwhelmingly weak status, he was happy to be reincarnated as a child and was determined to become popular among girls.
