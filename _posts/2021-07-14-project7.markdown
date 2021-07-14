@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 7
-date: 2021-07-14
-title: 'Surviving a different world with the All-purpose skill “Creating seasonings”!!'
+modal-id: 8
+date: 2021-07-15
+title: 'Surviving a different world with the All-purpose skill Creating seasonings!!'
 novelurl: https://yourfantasytranslations.github.io/SDWAP/
 img: SD.png
 alt: image-alt
