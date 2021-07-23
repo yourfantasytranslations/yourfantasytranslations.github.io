@@ -4,7 +4,7 @@ modal-id: 9
 date: 2021-07-23
 title: 'Now that I have the food production skills, I am thinking of starting a trading company in a different world.'
 novelurl: https://yourfantasytranslations.github.io/FPI/
-img: FPI.png
+img: FPI.jpg
 alt: image-alt
 description: "Ryu, an ordinary office worker, was returning home from his work. On his way of return he was searching for a store to eat dinner. On that day, he decided to have Chinese noodles and went inside a stall that he found on the roadside, by chance.
 However, there wasn't any food nor any people inside the small stall. Seemingly disappointed, he had no choice but to visit another store on the other side of the street. But when he turned around and came outside, he saw a dense forest around him!
