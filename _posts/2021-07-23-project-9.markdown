@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2021-07-23
-title: 'Now that I have the food production skills, I'm thinking of starting a trading company in a different world.'
+title: 'Now that I have the food production skills, I am thinking of starting a trading company in a different world.'
 novelurl: https://yourfantasytranslations.github.io/FPI/
 img: FPI.png
 alt: image-alt
@@ -11,5 +11,6 @@ However, there wasn't any food nor any people inside the small stall. Seemingly 
 Ryu realised that he had been transferred to a different world and had acquired the skill called “Stall”.
 Initially Ryu was disappointed, as he didn’t get any unrivalled combat skill. Later only he did realise that his cheat skill was ridiculously powerful and can produce “Food”!
 After exploring the new world and its surroundings Ryu decided to become a merchant and live a leisure life in another world. Interacting with various people and managing merchant associations with friends.
+
 "
 ---
