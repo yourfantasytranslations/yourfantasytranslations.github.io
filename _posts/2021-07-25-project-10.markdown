@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 10
+date: 2021-07-25
+title: 'A Story of a Knight In A Ruined Fantasy World'
+novelurl: https://yourfantasytranslations.github.io/ASOFK/
+img: ASOFK.jpeg
+alt: image-alt
+description: "A land polluted with poison, filled with cannibals and monsters. A world where society can only continue to exist inside 'safe zones'. This is the story of Arsene, a knight who goes on an adventure in search of dreams and hope in this barren land."
+---
