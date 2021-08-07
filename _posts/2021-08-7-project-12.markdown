@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 12
+date: 2021-08-07
+title: 'Free life of a leisurely otherworldly person – I am not a Hero, So I will do whatever I want'
+novelurl: https://yourfantasytranslations.github.io/FL/
+img: FL.jpg
+alt: image-alt
+description: "Coming Soon"
+---
